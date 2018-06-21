@@ -40,8 +40,11 @@ p {
 #footer, #footer nav a {
   background-color: dimgray;
   color: white;
+  display: block;
 }
 
 #footer p {
   font-size: 11px;
+  text-align: left;
+
 }
